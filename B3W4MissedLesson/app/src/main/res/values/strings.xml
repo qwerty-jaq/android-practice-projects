@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">B3W4 Missed Lesson</string>
+    <string name="please_enter_username_and_age">Please enter username and age</string>
+    <string name="please_enter_valid_age">Please enter a valid age (0–150)</string>
+    <string name="data_saved_successfully">Data saved successfully</string>
+    <string name="data_loaded_successfully">Data loaded successfully</string>
+    <string name="data_cleared_successfully">Data cleared successfully</string>
+    <string name="no_data_found">No saved data found</string>
+</resources>
